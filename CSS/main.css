@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card_title {
+    font-size: 25.7028px;
+}
+
+.header{
+   background-image: url('../img/bacg\ 1\ \(1\).png');
+   width: 1536px;
+   height: 745px;
+   padding: 63px;
+}
+
+.items{
+    width: 1200px;
+    height: 620px;
+    background: white;
+    border-radius: 30px;
+    margin: auto;
+    padding: 50px;
+}
+
+.item_1{
+    color: blue;
+    padding-bottom: 37px;
+    
+}
+
+.img{
+    padding-bottom: 37px;
+    
+}
+
+.item_title{
+   padding-bottom: 37px;
+}
+
+.link{
+    list-style: none;
+    color: blue;
+    
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.card_title{
+    color: blue;
+    padding-bottom: 10px;
+}
+
+.card_text{
+    padding-bottom: 10px;
+    font-size: 34.4119px;
+    line-height: 40px;
+}
+
+.dolor{
+    color: blue;
+    padding-bottom: 10px;
+}
+.card_text_2 {
+    width: 316px;
+    padding-bottom: 190px;
+   
+}
+
+.card_btn{
+    text-align: center;
+    padding-top: 10px;
+    background: blue;
+    width: 300px;
+    height: 62px;
+    border: 7px solid  blue;
+    border-radius: 40px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-style: 27PX;
+    color: white;
+    transform: 1s;
+   margin: auto;
+}
+
+.card_btn:hover{
+    background: white;
+    font-weight: 700;
+    color: blue ;
+}
+
+
+
+.card_text {
+    font-size: 28px;
+}
+
+.dolor{
+    font-size: 24px;
+}
+
+.card_btn{
+    font-size: 25px;
+}
+
+.item_title{
+    font-size: 30px;
+}
+
+.link{
+    font-size: 40px;
+    
+}
+
+.item__link{
+    color: blue;
+    
+}
+
+.list{
+    column-gap: 30px;
+}
+
+.item__link {
+    margin-right: 45px;
+}
+
+
+
+
+
